@@ -24,12 +24,12 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
 
-NAME   : AISHWARYA S
-REF NO : 212222100003
+NAME   : Neethiventhan
+REF NO : 212223100038
 DEP    : CSE(CS)
 
 
- 
+``` 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -37,6 +37,7 @@ import seaborn as sns
 import scipy.stats as stats
 df=pd.read_csv("/content/SAMPLEIDS (1).csv")
 df
+```
 
 ![image](https://github.com/user-attachments/assets/1a83f030-ff17-44a8-bc67-36a8f630bffe)
 
